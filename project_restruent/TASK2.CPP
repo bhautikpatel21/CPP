@@ -169,7 +169,6 @@ int main ()
 
 } while (i!=0);
 
-
             J.show_info();
             J.Show_Net_Bill();
 
