@@ -75,7 +75,7 @@ int main() {
          discount = (totalCost*10)/100;
          grandtotal = totalCost-discount;
       }
-     
+   
      cout<<"\nDiscount is :__________________ "<<discount << endl;
      cout<<"Your total with discount is : "<<grandtotal << endl;
 
