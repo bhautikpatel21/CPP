@@ -10,7 +10,7 @@ int main() {
    char n[20];
    int m;
 
-   cout<<"\nWelcome to the COBRA VILAA " << endl;
+   cout<<"\nWelcome to the BHAUTIK VILAA " << endl;
    cout<<"\nEnter your name : ";
    cin>>n;
    cout<<"Enter your mobile no. : ";
