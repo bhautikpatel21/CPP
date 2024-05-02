@@ -10,7 +10,7 @@ class Restaurant
     public:
      void get_info()
      {
-          cout<<"\n\t\t ========= COBRA VILAA     ========= \n";
+          cout<<"\n\t\t ========= BHAUTIK VILAA     ========= \n";
           cout<<"Enter your Name : ";
           cin>>name;
           cout<<"Enter your Contact Number : ";
