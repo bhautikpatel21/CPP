@@ -1,7 +1,7 @@
 - oops 
   Object-Oriented Programming System
 
-- part of opps 
+- part of oops 
 1. class & object 
 2. Encapsulation 
 3. Inheritance 
