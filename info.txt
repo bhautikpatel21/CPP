@@ -1,0 +1,46 @@
+- oops 
+  Object-Oriented Programming System
+
+- part of opps 
+1. class & object 
+2. Encapsulation 
+3. Inheritance 
+4. Polymorphism 
+5. Abstraction
+
+  
+-The key parts of **Encapsulation** in C++ are:
+1. **Private Members**  
+2. **Public Members**  
+3. **Getter and Setter Methods**  
+4. **Access Specifiers (public, private, protected)**  
+5. **Constructor and Destructor**  
+6. **Friend Functions**
+
+-The key parts of **Inheritance** in C++ are:
+1. **Base Class (Parent Class)**
+2. **Derived Class (Child Class)**
+3. **Access Specifiers (public, protected, private inheritance)**
+4. **Constructor and Destructor Inheritance**
+5. **Function Overriding**
+6. **Virtual Functions (for Runtime Polymorphism)**
+7. **Multiple Inheritance**
+8. **Multilevel Inheritance**
+9. **Hierarchical Inheritance**
+10. **Hybrid Inheritance**
+
+-The key parts of **Polymorphism** in C++ are:
+1. **Function Overloading**  
+2. **Operator Overloading**  
+3. **Function Overriding**  
+4. **Virtual Functions**  
+5. **Pure Virtual Functions (Abstract Classes)**  
+6. **Virtual Destructor**  
+7. **Function Pointers (with Virtual Functions)**
+
+-The key parts of **Abstraction** in C++ are:
+1. **Abstract Classes**
+2. **Pure Virtual Functions**
+3. **Virtual Functions**
+4. **Encapsulation (to hide implementation details)**
+5. **Interface (in C++ via abstract classes with pure virtual functions)**
